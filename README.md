@@ -1,2 +1,2 @@
-# PP
-Pracownia Problemowa - studia
+# Pracownia Problemowa LAB
+Pracownia Problemowa
