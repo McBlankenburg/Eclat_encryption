@@ -1,11 +1,11 @@
 # Pracownia Problemowa LAB
 
-Eclat jest to algorytm do znajdowania cz¦stych zestawów produktów w transakcji lub bazie danych. Jest to jedna z najlepszych metod uczenia sie regul
-asocjacyjnych. Algorytm ten, jest u»ywany do generowania czestych zestawów
+Eclat jest to algorytm do znajdowania czestych zestawów produktów w transakcji lub bazie danych. Jest to jedna z najlepszych metod uczenia sie regul
+asocjacyjnych. Algorytm ten, jest uzywany do generowania czestych zestawów
 przedmiotów w bazie danych.
 
 
-![image](https://user-images.githubusercontent.com/58309339/123154578-5a802680-d467-11eb-91db-05fee41a78ae.png)
+![image](https://user-images.githubusercontent.com/58309339/123156541-b5b31880-d469-11eb-824f-9546455d889f.png)
 screenshoot z uruchomienia programu
 
 
