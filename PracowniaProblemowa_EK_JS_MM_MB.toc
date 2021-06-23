@@ -1,0 +1,11 @@
+\contentsline {section}{\numberline {1}Wstęp}{3}{}%
+\contentsline {section}{\numberline {2}Organizacja pracy}{3}{}%
+\contentsline {subsection}{Slack}{3}{}%
+\contentsline {subsection}{Trello}{3}{}%
+\contentsline {subsection}{Github}{3}{}%
+\contentsline {subsection}{Dropbox}{6}{}%
+\contentsline {section}{\numberline {3}Opis działania algorytmu}{8}{}%
+\contentsline {section}{\numberline {4}Dane wejściowe}{9}{}%
+\contentsline {section}{\numberline {5}Wyniki}{10}{}%
+\contentsline {section}{\numberline {6}Podsumowanie}{10}{}%
+\contentsline {section}{\numberline {7}Bibliografia}{10}{}%

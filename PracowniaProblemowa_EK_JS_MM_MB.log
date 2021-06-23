@@ -1,0 +1,269 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.11)  20 JUN 2021 18:45
+entering extended mode
+**./Emil.tex
+(Emil.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> xparse <2020-03-03>
+(C:\Users\Emil\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(C:\Users\Emil\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\Emil\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+)
+(C:\Users\Emil\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+(C:\Users\Emil\AppData\Local\Programs\MiKTeX\tex/latex/polski\polski.sty
+Package: polski 2017/05/04 v1.3.4 Polish language package
+
+   Inputenc package detected. Catcodes not changed.
+) (C:\Users\Emil\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Emil\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\Emil\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Emil\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\Emil\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cf
+g
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(C:\Users\Emil\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+) (C:\Users\Emil\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip49
+\enit@outerparindent=\dimen141
+\enit@toks=\toks18
+\enit@inbox=\box47
+\enit@count@id=\count187
+\enitdp@description=\count188
+) (C:\Users\Emil\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count189
+\float@exts=\toks19
+\float@box=\box48
+\@float@everytoks=\toks20
+\@floatcapt=\box49
+)
+(C:\Users\Emil\AppData\Local\Programs\MiKTeX\tex/latex/chngcntr\chngcntr.sty
+Package: chngcntr 2018/04/09 v1.1a change counter resetting
+Package chngcntr Info: \counterwithout already defined.
+(chngcntr)             Quitting chngcntr on input line 21.
+)
+(C:\Users\Emil\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdft
+ex.def
+File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count190
+\l__pdf_internal_box=\box50
+) (Emil.aux)
+\openout1 = `Emil.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+
+(C:\Users\Emil\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
+i
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count191
+\scratchdimen=\dimen142
+\scratchbox=\box51
+\nofMPsegments=\count192
+\nofMParguments=\count193
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count194
+\MPscratchDim=\dimen143
+\MPnumerator=\count195
+\makeMPintoPDFobject=\count196
+\everyMPtoPDFconversion=\toks22
+)
+(C:\Users\Emil\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-ba
+se.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 39.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 39.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 39.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 3
+9.
+ (C:\Users\Emil\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+[1
+
+{C:/Users/Emil/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] (Emil.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 3.
+)
+\tf@toc=\write3
+\openout3 = `Emil.toc'.
+
+
+[2
+
+]
+<Slack.png, id=14, 1400.23125pt x 763.35187pt>
+File: Slack.png Graphic file (type png)
+<use Slack.png>
+Package pdftex.def Info: Slack.png  used on input line 59.
+(pdftex.def)             Requested size: 322.04642pt x 175.56723pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Thread.png, id=15, 1013.28563pt x 552.56438pt>
+File: Thread.png Graphic file (type png)
+<use Thread.png>
+Package pdftex.def Info: Thread.png  used on input line 65.
+(pdftex.def)             Requested size: 354.65529pt x 193.40042pt.
+
+Overfull \hbox (9.65529pt too wide) in paragraph at lines 65--66
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Github.png, id=16, 707.64375pt x 258.21469pt>
+File: Github.png Graphic file (type png)
+<use Github.png>
+Package pdftex.def Info: Github.png  used on input line 75.
+(pdftex.def)             Requested size: 318.43675pt x 116.19553pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Trello.png, id=17, 846.16125pt x 584.1825pt>
+File: Trello.png Graphic file (type png)
+<use Trello.png>
+Package pdftex.def Info: Trello.png  used on input line 86.
+(pdftex.def)             Requested size: 380.76904pt x 262.87968pt.
+
+Overfull \hbox (35.76904pt too wide) in paragraph at lines 86--87
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[3
+
+] [4 <./Slack.png> <./Thread.png>]
+<Git.png, id=25, 553.31718pt x 441.14813pt>
+File: Git.png Graphic file (type png)
+<use Git.png>
+Package pdftex.def Info: Git.png  used on input line 99.
+(pdftex.def)             Requested size: 331.99286pt x 264.69092pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Git2.png, id=26, 934.24031pt x 427.5975pt>
+File: Git2.png Graphic file (type png)
+<use Git2.png>
+Package pdftex.def Info: Git2.png  used on input line 107.
+(pdftex.def)             Requested size: 373.6895pt x 171.03596pt.
+
+Overfull \hbox (28.6895pt too wide) in paragraph at lines 107--108
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[5 <./Github.png> <./Trello.png>] [6 <./Git.png> <./Git2.png>]
+<Dropbox.png, id=33, 1423.56844pt x 449.42906pt>
+File: Dropbox.png Graphic file (type png)
+<use Dropbox.png>
+Package pdftex.def Info: Dropbox.png  used on input line 116.
+(pdftex.def)             Requested size: 355.89124pt x 112.35698pt.
+
+Overfull \hbox (10.89124pt too wide) in paragraph at lines 116--117
+ [][] 
+ []
+
+[7 <./Dropbox.png>] [8]
+<DaneWejsciowe.png, id=41, 295.1025pt x 180.675pt>
+File: DaneWejsciowe.png Graphic file (type png)
+<use DaneWejsciowe.png>
+Package pdftex.def Info: DaneWejsciowe.png  used on input line 133.
+(pdftex.def)             Requested size: 118.0389pt x 72.2687pt.
+ [9 <./DaneWejsciowe.png>]
+<Wejscie.png, id=47, 1002.74625pt x 641.39626pt>
+File: Wejscie.png Graphic file (type png)
+<use Wejscie.png>
+Package pdftex.def Info: Wejscie.png  used on input line 143.
+(pdftex.def)             Requested size: 401.0914pt x 256.55396pt.
+
+Overfull \hbox (56.0914pt too wide) in paragraph at lines 143--144
+ [][] 
+ []
+
+[10 <./Wejscie.png>] [11] (Emil.aux) ) 
+Here is how much of TeX's memory you used:
+ 1989 strings out of 479334
+ 29279 string characters out of 2857559
+ 320695 words of memory out of 3000000
+ 19440 multiletter control sequences out of 15000+200000
+ 411869 words of font info for 44 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 68i,7n,74p,1248b,299s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Emil\AppData\Local\MiKTeX\font
+s/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\Emil\AppData\Local\MiKTeX
+\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\Emil\AppData\Local\M
+iKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Emil\AppData\Lo
+cal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Emil\AppDa
+ta\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk> <C:\Users\Emil\
+AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\
+Emil\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk>
+Output written on Emil.pdf (11 pages, 825180 bytes).
+PDF statistics:
+ 310 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+
