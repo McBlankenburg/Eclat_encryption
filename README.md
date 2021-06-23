@@ -15,7 +15,7 @@ przedmiotów w bazie danych.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/58309339/123156541-b5b31880-d469-11eb-824f-9546455d889f.png" title="Screenshot"/>
 </p>
-
+<p align="center"> Zrzut ekranu, podczas uruchomienia algorytmu ECLAT. </p>
 
 
 
