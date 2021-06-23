@@ -12,8 +12,10 @@ asocjacyjnych. Algorytm ten, jest uzywany do generowania czestych zestawów
 przedmiotów w bazie danych.
 
 
-![image](https://user-images.githubusercontent.com/58309339/123156541-b5b31880-d469-11eb-824f-9546455d889f.png)
-screenshoot z uruchomienia programu
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/58309339/123156541-b5b31880-d469-11eb-824f-9546455d889f.png" title="Screenshot"/>
+</p>
+
 
 
 
