@@ -1,4 +1,11 @@
-# Pracownia Problemowa LAB
+# ⚙️Pracownia Problemowa I 
+### Odtworzenie algorytmu Eclat na dużym zbiorze danych. 
+
+✨Autorzy: 
+- Emil Kowalczyk, nr indeksu: 230178 
+- Joanna Ściebura, nr indeksu: 204169
+- Marcel Młodziński, nr indeksu: 217119
+- Maciek Blankenburg, nr indeksu: 233348
 
 Eclat jest to algorytm do znajdowania czestych zestawów produktów w transakcji lub bazie danych. Jest to jedna z najlepszych metod uczenia sie regul
 asocjacyjnych. Algorytm ten, jest uzywany do generowania czestych zestawów
